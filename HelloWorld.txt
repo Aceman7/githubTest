@@ -1,4 +1,4 @@
-// Hello World, Welcome to gitHub
+// Hello World, Welcome Ashraf to gitHub
 
-// updating the text now ( Hello Arif ) from the system
+// updating the (Fareedah) text now ( Hello Arif ) from the system
 
